@@ -1,0 +1,8 @@
+{
+  "api_parameters": [
+    "query",
+    "body",
+    "header",
+    "path"
+  ]
+}
